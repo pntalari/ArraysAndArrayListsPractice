@@ -9,6 +9,8 @@
         <module name="ArraysAndArrayListsPractice" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="8" />
+    <bytecodeTargetLevel>
+      <module name="ArraysAndArrayListsPractice" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
